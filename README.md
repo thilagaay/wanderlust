@@ -1,8 +1,8 @@
 # wanderlust
 Google developers ID:
-  Thilagavathi C - https://g.dev/thilagavathi
+  Thilagavathi C - https://g.dev/thilagavathic
 Google developers ID:
-  Ayeesha Kausan I - https://g.dev/ayeeshaai
+  Ayeesha Kausan I - https://g.dev/ayeeshai
 Google developers ID:
   Seetha R - https://g.dev/seethar
 Google developers ID:
